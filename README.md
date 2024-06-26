@@ -20,8 +20,8 @@ I'm a Software Engineer specializing in Frontend Development.
 - <img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python"/><img src="https://skillicons.dev/icons?i=flask" width="20" height="20" alt="Flask"/> Python and Flask
 
 ### Technical Hobbies
-- <img src="https://github.com/Ebubekir-Tas/Ebubekir-Tas/assets/65694925/1d2f30dd-3dba-4acb-b377-60a02d792cbf" width="20" height="20" alt="Game"/> [Game Development](https://github.com/Ebubekir-Tas/stick-arena-reborn-v2)
 - <img src="https://github.com/Ebubekir-Tas/Ebubekir-Tas/assets/65694925/e8761501-b334-44a9-a6e0-cc653bc6744d" width="20" height="20" alt="RE"/> [Reverse Engineering](https://github.com/Ebubekir-Tas/Flash-Modding-Guide)
+- <img src="https://github.com/Ebubekir-Tas/Ebubekir-Tas/assets/65694925/1d2f30dd-3dba-4acb-b377-60a02d792cbf" width="20" height="20" alt="Game"/> [Game Development](https://github.com/Ebubekir-Tas/stick-arena-reborn-v2)
 
 ### Other Skills
 - <img src="https://github.com/Ebubekir-Tas/Ebubekir-Tas/assets/65694925/e0920ef5-7d8e-4209-a077-1ca9accabb55" width="20" height="20" alt="ActionScript"/> ActionScript
