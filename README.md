@@ -7,7 +7,7 @@ I'm a Software Engineer specializing in Frontend Development.
 - <img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript"/> <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="Javacript"/> TypeScript (TS) and JavaScript (JS)
 - <img src="https://skillicons.dev/icons?i=react" width="20" height="20" alt="React"/> React
 - <img src="https://skillicons.dev/icons?i=vue" width="20" height="20" alt="Vue"/> Vue
-- <img src="https://skillicons.dev/icons?i=nextjs" width="20" height="20" alt="Next.js"/> Next.js
+- <img src="https://skillicons.dev/icons?i=nextjs" width="20" height="20" alt="Next.js"/> Next.js + Vercel
 - <img src="https://skillicons.dev/icons?i=redux" width="20" height="20" alt="Redux"/> Redux
 - <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="20" height="20" alt="Zustand"/> Zustand
 - <img src="https://skillicons.dev/icons?i=mui" width="20" height="20" alt="Mui"/> Material UI
@@ -26,5 +26,4 @@ I'm a Software Engineer specializing in Frontend Development.
 ### Other Skills
 - <img src="https://github.com/Ebubekir-Tas/Ebubekir-Tas/assets/65694925/e0920ef5-7d8e-4209-a077-1ca9accabb55" width="20" height="20" alt="ActionScript"/> ActionScript
 - <img src="https://github.com/Ebubekir-Tas/Ebubekir-Tas/assets/65694925/f7ca03c1-b5ff-47db-962a-e7f523bab1ec" width="20" height="20" alt="FFMPEG"/> FFMPEG
-- <img src="https://github.com/Ebubekir-Tas/Ebubekir-Tas/assets/65694925/49ecaaa3-fa05-4823-bdf4-27462d20b6f0" width="20" height="20" alt="C++"/> C++ Desktop applications (Qt)
 - <img src="https://github.com/Ebubekir-Tas/Ebubekir-Tas/assets/65694925/f65935de-fa2b-4f7e-a977-96674f991fbd" width="20" height="20" alt="C#"/> Unity + C#
